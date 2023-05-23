@@ -1,0 +1,12 @@
+42067.0 Julia Rios
+15023.7 javier ramirez
+18097.0 luis alvarez
+48749.0 juan millones
+35267.0 mariela fajardo
+20527.0 manuel lopez
+42067.0  Juan Rios
+15023.7  Javier Ramirez
+18097.0  Luiz Alvarez
+48749.4  Juan Millones
+35267.0  Mariela Fajardo
+20527.0  Manuel Lopez

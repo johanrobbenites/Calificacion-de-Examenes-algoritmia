@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace  std;
+void posicion(int mat[100], int, int);
+int main() {
+	int limite, numero, j = 0, array[100];;
+	cout << "Digite el limite del arreglo: "; cin >> limite;
+	for (int i = 0; i < limite; i++) {
+		cout << 1 + i << ". Digite un numero: "; cin >> array[i];
+	}
+	cout << "Digite el numero a buscar: "; cin >> numero;
+	posicion(array, numero, limite, j);
+}
+void posicion(int array[100], int numero,int limite) {
+	int i = 0;
+	if (numero == array[i]) {
+		cout << i;
+	}
+	else if(numero!=array[i] || i>100) {
+		i++; posicion(array, numero, limite,j);
+	}
+	else {
+		cout << -1;
+	}
+}

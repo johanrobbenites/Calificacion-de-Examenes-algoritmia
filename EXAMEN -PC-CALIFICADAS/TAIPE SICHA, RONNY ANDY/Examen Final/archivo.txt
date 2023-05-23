@@ -1,0 +1,12 @@
+4500.50 Pedro Ramirez,
+4850.40 Juana Alberta,
+1500.00 Alberto Ruiz,
+2600.00 Ana Valdez,
+6800.00 Laura Rios,
+5500.00 Pepe Veraz,
+3200.50 Juan Mendoza,
+3000.00 Omar Velazques,
+2500.00 Alcidez Carreon,
+1000.00 Andy Trujillo,
+2000.00 Juana Arco,
+3000.50 John Flake

@@ -1,0 +1,5 @@
+Lince	30	M
+Rimac	45	F
+Molina	25	M
+Rimac	22	F
+Lince	28	M

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Subir archivos y ejecutar código</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Subir archivos y ejecutar código</h1>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="archivos" multiple>
+        <input type="submit" value="Subir archivos">
+    </form>
+    <button id="ejecutar">Ejecutar código Python</button>
+    <div id="resultado"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

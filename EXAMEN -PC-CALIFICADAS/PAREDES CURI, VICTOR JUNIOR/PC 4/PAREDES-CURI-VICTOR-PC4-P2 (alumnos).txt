@@ -1,0 +1,15 @@
+CB101
+codigo del primero alumno= 111.0
+promedio del primer alumno: 6,8
+CB101
+codigo del segundo alumno= 222.0
+promedio del segundo alumno: 11
+SI205
+codigo del tercer alumno= 111.0
+promedio del tercer alumno: 13,4
+SI205
+codigo del cuarto alumno= 444
+promedio del cuarto alumno: 8,9
+ST221
+codigo del quinto alumno= 222.0
+promedio del quinto alumno: 11,3

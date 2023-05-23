@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="submit"], button {
+    margin-top: 10px;
+}
+
+#resultado {
+    margin-top: 20px;
+    white-space: pre-wrap;
+}
